@@ -18,6 +18,7 @@ I am especially interested in:
 
 Alongside development, I continuously study computer science fundamentals: algorithms, memory management, networking, and how software interacts with hardware.
 I don’t just write code — I try to understand why it works the way it does.
+
 ---
 
 
