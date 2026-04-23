@@ -5,10 +5,12 @@
 
 # Hi
 
-### Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
+
+## Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight" />
