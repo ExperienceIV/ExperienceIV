@@ -5,8 +5,7 @@
 
 # Hi
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=dark&hide_border=true)
-
+# My 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
@@ -22,3 +21,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
+</picture>
