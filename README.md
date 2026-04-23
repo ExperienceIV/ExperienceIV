@@ -25,7 +25,7 @@ I don’t just write code — I try to understand why it works the way it does.
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
 
-##Interests
+## Interests
 
   - Medical technologies & bioengineering
   - Neural networks & AI
