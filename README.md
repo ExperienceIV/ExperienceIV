@@ -18,12 +18,8 @@ I am especially interested in:
 
 Alongside development, I continuously study computer science fundamentals: algorithms, memory management, networking, and how software interacts with hardware.
 I don’t just write code — I try to understand why it works the way it does.
+---
 
-
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
-</p>
 
 ## Interests
 
@@ -31,6 +27,13 @@ I don’t just write code — I try to understand why it works the way it does.
   - Neural networks & AI
   - System design
   - Human augmentation & future tech
+
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
+</p>
+
 
 ## Activity
 
