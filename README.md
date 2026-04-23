@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
 </picture>
 
@@ -38,8 +38,3 @@ I don’t just write code — I try to understand why it works the way it does.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
-</picture>
