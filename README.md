@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
-</picture>
-
 # Experience IV  🩺
 
 Hi, I'm Rostislav Vishnyakov. 
@@ -35,6 +30,10 @@ I don’t just write code — I try to understand why it works the way it does.
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
+</picture>
 
 
 ## Activity
