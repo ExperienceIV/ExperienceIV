@@ -5,7 +5,7 @@
 
 # Hi
 
-# My 
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
