@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake.svg)">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
 </picture>
 
 <p align="center">
