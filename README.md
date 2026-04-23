@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
 </picture>
 
-# Experience IV
+# Experience IV  ✨
 
 Hi, I'm Rostislav Vishnyakov. 
 I position myself as a developer at the intersection of medicine and technology — with a strong interest in building intelligent and reliable systems.
