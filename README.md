@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight" />
 </p>
