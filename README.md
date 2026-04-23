@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 🐍 My Contribution Snake
 
-![snake gif](https://github.com/ТВОЙ_НИК/ТВОЙ_НИК/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake.svg)">
   <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-snake.svg">
 </picture>
 
