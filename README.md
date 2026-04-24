@@ -44,10 +44,6 @@ I don’t just write code — I try to understand why it works the way it does.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight" />
 </p>
 
