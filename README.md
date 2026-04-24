@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
 </picture>
 
 # Experience IV  🩺
@@ -37,10 +36,10 @@ I don’t just write code — I try to understand why it works the way it does.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-green-animate.svg">
 </picture>
-
 
 ## Activity
 
