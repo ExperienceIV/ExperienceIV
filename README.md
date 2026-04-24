@@ -35,13 +35,14 @@ I don’t just write code — I try to understand why it works the way it does.
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,django,postgres,docker,linux,git" />
 </p>
 
+
+## Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-rainbow.svg">
   <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-green-animate.svg">
 </picture>
-
-## Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight" />
