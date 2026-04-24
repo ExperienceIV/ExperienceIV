@@ -45,9 +45,5 @@ I don’t just write code — I try to understand why it works the way it does.
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight" />
 </p>
