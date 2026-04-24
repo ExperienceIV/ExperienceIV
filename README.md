@@ -1,5 +1,3 @@
-- uses: yoshi389111/github-profile-3d-contrib
-
 # Experience IV  🩺
 
 Hi, I'm Rostislav Vishnyakov. 
