@@ -74,7 +74,7 @@ Computational modeling of nerve regeneration and next-generation medical constru
 
 ## 🔗 Connect With Me
 
-✉️ Email: your_email_here  
+✉️ Email: experience.iv@yandex.ru 
 🌍 Open for collaboration in MedTech / AI / Biomedical Engineering
 
 ---
