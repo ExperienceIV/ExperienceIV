@@ -15,3 +15,9 @@
 <img src="https://img.shields.io/badge/STATUS-RESEARCH_ACTIVE-8A2BE2?style=for-the-badge&labelColor=0D1117" />
 
 </div>
+
+┌──(experienceiv@biomedical-lab)-[~/current_mission]
+└─$ whoami
+
+Rostislav Vishnyakov
+Medical AI Developer | Biomedical Engineer | Future Builder
