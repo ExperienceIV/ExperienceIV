@@ -16,18 +16,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ExperienceIV&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=MedTech%20Developer%20|%20AI%20Researcher%20|%20Future%20Bioengineer&descAlignY=60" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:112240,100:00F7FF&height=260&section=header&text=EXPERIENCE%20IV&fontSize=62&fontColor=E6F1FF&animation=twinkling&fontAlignY=38&desc=MEDTECH%20SYSTEMS%20ENGINEER%20%7C%20AI%20RESEARCH%20UNIT&descAlignY=60&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+for+medicine;Exploring+C%2B%2B+%7C+Rust+%7C+Python;AI+Research+%2B+Biomedical+Engineering;Human+augmentation+starts+with+code" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+biomedical+engineering+interface...;Loading+AI-assisted+medical+systems...;Connecting+neural+research+modules...;Human-machine+integration+in+progress..." />
-
-</div>
-
----
-
 ## 🧠 About Me
 <div align="center">
 
