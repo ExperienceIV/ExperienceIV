@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/cyber_banner.png" />
-</div>
-
-<div align="center">
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=650&color=00F5FF&center=true&vCenter=true&width=900&lines=Medical+AI+Developer+%7C+Biomedical+Systems;Neural+Routing+%7C+Human+Augmentation;Research+Protocols+ACTIVE;Building+the+interface+between+flesh+and+machine" />
 
