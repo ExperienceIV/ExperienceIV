@@ -15,17 +15,3 @@
 </div>
 
 ---
-
-```bash
-┌──(experienceiv@biomedical-lab)-[~/identity]
-└─$ whoami
-
-Rostislav Vishnyakov
-Medical student × AI developer × future biomedical engineer
-
-┌──(system)-[mission]
-└─$ cat current_protocol.txt
-
-> Building intelligent medical systems
-> Exploring neural routing, biomedical engineering and augmentation
-> Turning medicine, code and cybernetics into one trajectory
