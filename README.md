@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/cyber_banner.png" />
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/cyber_banner.png" width="100%" />
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=650&color=00F5FF&center=true&vCenter=true&width=950&lines=Medical+AI+Developer+%7C+Biomedical+Systems;Neural+Routing+%7C+MedTech+%7C+Human+Augmentation;Research+Protocols+ACTIVE;Building+the+interface+between+flesh+and+machine" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=MEDICAL+AI+DEVELOPER;BIOMEDICAL+SYSTEMS+ENGINEER;NEURAL+ROUTING+%7C+MEDTECH+%7C+HUMAN+AUGMENTATION;BUILDING+THE+INTERFACE+BETWEEN+FLESH+AND+MACHINE" />
 
 <br><br>
 
@@ -16,107 +18,59 @@
 
 ---
 
-## 🧠 About Me
 <div align="center">
 
-Medical student deeply involved in software engineering, artificial intelligence and biomedical technologies.
-## ◤ USER CORE PROFILE ◢
+## ◤ BIOMEDICAL AI SYSTEMS ◢
 
-I build systems at the intersection of:
-- medical data processing
-- neural network solutions
-- backend architecture
-- future bioengineering concepts
+Medical student building software at the intersection of  
+**AI, medical data processing, backend engineering and future biomedical technologies.**
+
 </div>
 
-My focus is not just writing code, but designing technologies capable of extending healthcare and human capabilities.
-<table align="center">
-<tr>
-<td width="50%">
-
----
-```txt
-Name: Rostislav Vishnyakov
-Alias: ExperienceIV
-Status: Medical Student / MedTech Developer
-Focus: AI + Backend + Biomedical Systems
-Objective: Human Augmentation Technologies
-```
-
-</td>
-<td width="50%">
-
-```txt
-> Designing intelligent medical software
-> Researching neural interfaces
-> Building future bioengineering concepts
-> Exploring C++ / Rust / Python ecosystems
-```
-
-</td>
-</tr>
-</table>
-
-## ⚙️ Tech Stack
 ---
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,rust,django,fastapi,postgresql,docker,linux,git,vscode,pytorch" />
 
 ## ◤ TECHNOLOGY MATRIX ◢
 
-<img src="https://skillicons.dev/icons?i=cpp,python,rust,django,fastapi,pytorch,postgres,docker,linux,git,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,postgres,docker,linux,git,github,html,css,cpp,rust,vscode&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## 🚀 Current Mission
 <div align="center">
 
-```txt
-Designing intelligent medical routing systems.
-Researching AI-assisted healthcare solutions.
-Moving toward neurointerfaces, prosthetics and human-machine integration.
-```
-## ◤ CURRENT LABORATORY MISSIONS ◢
+## ◤ ACTIVE PROJECTS ◢
 
----
 </div>
 
-## 🧪 Featured Projects
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="50%">
 
 ### 🏥 AI Medical Registry
-Intelligent patient routing system based on neural text analysis.  
-Medical complaint → symptom parsing → specialist recommendation.
-🧠 AI Medical Registry — intelligent patient routing based on NLP symptom analysis
+
+Intelligent patient routing system based on neural text analysis.
+
+**Medical complaint → symptom analysis → specialist recommendation**
+
+<a href="https://github.com/ExperienceIV/AI-Medical-registry">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExperienceIV&repo=AI-Medical-registry&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
+</a>
+
+</td>
+<td width="50%">
 
 ### 🕷 Tick Defender Bot
+
 Educational Telegram bot for tick-borne encephalitis prevention and public health awareness.
-</td>
-<td>
 
-### 🧬 Future Bioengineering Research
-Computational modeling of nerve regeneration and next-generation medical constructs.
-🕷 Tick Defender Bot — public health educational assistant for epidemiological prevention
+**Medical education → prevention → public health**
 
----
-</td>
-</tr>
-
-## 📊 GitHub Statistics
-<tr>
-<td>
-
-🧬 Nerve Regeneration Modeling — computational simulation of future repair constructs
-
-</td>
-<td>
-
-⚙ Rust/C++ Systems Track — low-level architecture and performance engineering growth
+<a href="https://github.com/ExperienceIV/Telegram-bot-for-the-prevention-of-tick-borne-encephalitis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExperienceIV&repo=Telegram-bot-for-the-prevention-of-tick-borne-encephalitis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
+</a>
 
 </td>
 </tr>
@@ -125,55 +79,46 @@ Computational modeling of nerve regeneration and next-generation medical constru
 ---
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true" />
 
 ## ◤ GITHUB TELEMETRY ◢
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
 
-<img height="165em" src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight&hide_border=true&background=00000000" />
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF" />
 
----
-
-## 🧬 3D Contribution Graph
-<div align="center">
-
-## ◤ CONTRIBUTION SCAN ◢
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
-</div>
-
----
-
-## 🔗 Connect With Me
-<div align="center">
-
-## ◤ ACTIVE DEVELOPMENT SIGNAL ◢
-
-<img src="https://komarev.com/ghpvc/?username=ExperienceIV&color=00F7FF&style=for-the-badge" />
-
-✉️ Email: experience.iv@yandex.ru 
-🌍 Open for collaboration in MedTech / AI / Biomedical Engineering
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ExperienceIV&color=00F7FF&style=flat-square" />
+## ◤ DEVELOPMENT SIGNAL ◢
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ExperienceIV&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◤ CONNECT ◢
+
+<img src="https://komarev.com/ghpvc/?username=ExperienceIV&color=00F7FF&style=for-the-badge&label=LAB+VISITORS" />
+
+<br><br>
+
+**Open for collaboration in MedTech / AI / Biomedical Engineering**
+
+</div>
+
+---
+
+<div align="center">
+
 ```txt
-> Biomedical Intelligence Systems
-> Neural Data Processing
-> Human-Machine Interface Research
-> Future Prosthetic Engineering
-```
-
-</div>
+THE FUTURE OF MEDICINE IS INTELLIGENT.
+THE FUTURE OF THE HUMAN BODY IS ENGINEERED.
