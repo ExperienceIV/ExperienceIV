@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/cyber_banner.png" />
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,20,24,30&text=EXPERIENCE%20IV&fontSize=64&fontAlignY=38&desc=CYBER%20MEDICAL%20LAB%20//%20AI%20SYSTEMS%20ONLINE&descAlignY=58&animation=fadeIn&fontColor=FFFFFF" />
 
