@@ -148,8 +148,6 @@ STATUS: Public health assistant
 
 </div>
 
-> To activate the snake, create `.github/workflows/snake.yml` in the profile repository and add the GitHub Action from the setup block below.
-
 ---
 
 ## 🛰️ CONNECT / SIGNALS
