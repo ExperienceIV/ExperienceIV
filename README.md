@@ -82,8 +82,9 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 
 ## ◤ GITHUB TELEMETRY ◢
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
