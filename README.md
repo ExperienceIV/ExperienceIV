@@ -123,3 +123,6 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 ```txt
 THE FUTURE OF MEDICINE IS INTELLIGENT.
 THE FUTURE OF THE HUMAN BODY IS ENGINEERED.
+```
+
+</div>
