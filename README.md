@@ -82,23 +82,15 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 
 ## ◤ GITHUB TELEMETRY ◢
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ExperienceIV&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperienceIV&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ExperienceIV&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◤ DEVELOPMENT SIGNAL ◢
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ExperienceIV&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true" />
+<a href="https://github.com/ExperienceIV?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-VIEW_ALL-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
+</a>
+<a href="https://github.com/ExperienceIV?tab=followers">
+  <img src="https://img.shields.io/github/followers/ExperienceIV?style=for-the-badge&color=FF00FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
+</a>
+<a href="https://github.com/ExperienceIV/AI-Medical-registry">
+  <img src="https://img.shields.io/github/last-commit/ExperienceIV/AI-Medical-registry?style=for-the-badge&color=8A2BE2&labelColor=0D1117&label=LAST%20SIGNAL" alt="Latest project activity" />
+</a>
 
 </div>
 
