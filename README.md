@@ -55,8 +55,8 @@ Intelligent patient routing system based on neural text analysis.
 
 **Medical complaint → symptom analysis → specialist recommendation**
 
-<a href="https://github.com/ExperienceIV/AI-Medical-registry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExperienceIV&repo=AI-Medical-registry&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
+<a href="https://github.com/ExperienceIV/MedReg-AI-Demo">
+  <img src="https://img.shields.io/badge/OPEN-MedReg--AI--Demo-00F5FF?style=for-the-badge&logo=github&labelColor=0D1117" alt="MedReg-AI-Demo" />
 </a>
 
 </td>
@@ -69,7 +69,7 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 **Medical education → prevention → public health**
 
 <a href="https://github.com/ExperienceIV/Telegram-bot-for-the-prevention-of-tick-borne-encephalitis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ExperienceIV&repo=Telegram-bot-for-the-prevention-of-tick-borne-encephalitis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9" />
+  <img src="https://img.shields.io/badge/OPEN-Tick_Defender_Bot-FF00FF?style=for-the-badge&logo=telegram&labelColor=0D1117" alt="Tick Defender Bot" />
 </a>
 
 </td>
@@ -88,9 +88,13 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 <a href="https://github.com/ExperienceIV?tab=followers">
   <img src="https://img.shields.io/github/followers/ExperienceIV?style=for-the-badge&color=FF00FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
 </a>
-<a href="https://github.com/ExperienceIV/AI-Medical-registry">
-  <img src="https://img.shields.io/github/last-commit/ExperienceIV/AI-Medical-registry?style=for-the-badge&color=8A2BE2&labelColor=0D1117&label=LAST%20SIGNAL" alt="Latest project activity" />
+<a href="https://github.com/ExperienceIV/MedReg-AI-Demo">
+  <img src="https://img.shields.io/github/last-commit/ExperienceIV/MedReg-AI-Demo?style=for-the-badge&color=8A2BE2&labelColor=0D1117&label=LAST%20SIGNAL" alt="Latest project activity" />
 </a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
