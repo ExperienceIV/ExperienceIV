@@ -34,6 +34,20 @@
 
 <div align="center">
 
+## ◤ ЛИСТ ПЕРСОНАЖА ◢
+
+<img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Luzi" />
+
+<!--EXCUSE:START-->
+> 💬 **Оправдание дня (01.11.2026):** Кэш. Всегда виноват кэш.
+<!--EXCUSE:END-->
+
+</div>
+
+---
+
+<div align="center">
+
 ## ◤ ТЕХНОЛОГИЧЕСКАЯ МАТРИЦА ◢
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,postgres,docker,linux,git,github,html,css,cpp,rust,vscode&theme=dark&perline=7" />
