@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (01.11.2026):** Кэш. Всегда виноват кэш.
+> 💬 **Оправдание дня (02.11.2026):** Было 3 ночи, мне тогда казалось, что это гениально.
 <!--EXCUSE:END-->
 
 </div>
