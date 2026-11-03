@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (02.11.2026):** Было 3 ночи, мне тогда казалось, что это гениально.
+> 💬 **Оправдание дня (03.11.2026):** Я не опоздал с дедлайном, я его расширил.
 <!--EXCUSE:END-->
 
 </div>
