@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (05.11.2026):** git blame указывает на меня из прошлого, а он всегда был идиотом.
+> 💬 **Оправдание дня (06.11.2026):** Чумба, это временное решение. Ему уже три месяца.
 <!--EXCUSE:END-->
 
 </div>
