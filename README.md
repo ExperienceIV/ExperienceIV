@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (08.11.2026):** Это не баг, это недокументированная фича.
+> 💬 **Оправдание дня (09.11.2026):** У меня на Fedora это работало.
 <!--EXCUSE:END-->
 
 </div>
