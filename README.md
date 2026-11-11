@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (10.11.2026):** Оно само сломалось, я вообще не трогал.
+> 💬 **Оправдание дня (11.11.2026):** Это нейросеть виновата. Любая. Какая-нибудь.
 <!--EXCUSE:END-->
 
 </div>
