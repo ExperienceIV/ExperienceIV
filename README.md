@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (12.11.2026):** Я не прокрастинирую, я жду, пока исправят зависимость.
+> 💬 **Оправдание дня (13.11.2026):** Тесты прошли. Просто не те, которые нужны.
 <!--EXCUSE:END-->
 
 </div>
