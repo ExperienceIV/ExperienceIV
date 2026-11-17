@@ -144,8 +144,8 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 
 <br><br>
 
-**Открыт для коллабов в MedTech / AI / биомедицинской инженерии.**  
-Пишите, если нужен напарник, который сломает прод в 3:05, но починит в 3:06.
+**Открыт для коллабов в MedTech / AI / биомедицинской инженерии.**
+
 
 </div>
 
