@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<strong>КРУТОЙ РАЗРАБ (НЕТ, СЕРЬЁЗНО) · ПИШУ КОД В 3 НОЧИ · FEDORA · MEDTECH / AI</strong>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/СИСТЕМА-ОНЛАЙН_(ПОКА_НЕ_УПАЛА)-00F5FF?style=for-the-badge&labelColor=0D1117" />
@@ -152,13 +150,3 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 </div>
 
 ---
-
-<div align="center">
-
-```txt
-БУДУЩЕЕ МЕДИЦИНЫ — ИНТЕЛЛЕКТУАЛЬНОЕ.
-БУДУЩЕЕ ЧЕЛОВЕЧЕСКОГО ТЕЛА — ИНЖЕНЕРНОЕ.
-// TODO: выспаться
-```
-
-</div>
