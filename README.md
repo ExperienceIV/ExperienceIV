@@ -146,6 +146,14 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
 
 **Открыт для коллабов в MedTech / AI / биомедицинской инженерии.**
 
+<br>
+
+<a href="mailto:aberration.iv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aberration.iv%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&labelColor=0D1117" alt="Email: aberration.iv@gmail.com" /></a>
+
+<a href="https://t.me/RostislavVishnya"><img src="https://img.shields.io/badge/TELEGRAM-%40RostislavVishnya-FF00FF?style=for-the-badge&logo=telegram&labelColor=0D1117" alt="Telegram: @RostislavVishnya" /></a>
+
+<a href="tel:+79055219091"><img src="https://img.shields.io/badge/ТЕЛЕФОН-%2B7%20905%20521--90--91-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Телефон: +7 905 521-90-91" /></a>
+
 
 </div>
 
