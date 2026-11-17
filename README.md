@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=950&lines=%D0%9A%D0%A0%D0%A3%D0%A2%D0%9E%D0%99+%D0%A0%D0%90%D0%97%D0%A0%D0%90%D0%91+%28%D0%9D%D0%95%D0%A2%2C+%D0%A1%D0%95%D0%A0%D0%AC%D0%81%D0%97%D0%9D%D0%9E%29;%D0%9F%D0%98%D0%A8%D0%A3+%D0%9A%D0%9E%D0%94+%D0%92+3+%D0%9D%D0%9E%D0%A7%D0%98+%E2%80%94+%D0%9B%D0%9E%D0%9C%D0%90%D0%AE+%D0%92+3%3A05;%D0%A3+%D0%9C%D0%95%D0%9D%D0%AF+%D0%9D%D0%90+FEDORA+%D0%92%D0%A1%D0%81+%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%D0%95%D0%A2;%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2-%D0%9C%D0%95%D0%94%D0%98%D0%9A%2C+%D0%9A%D0%9E%D0%A2%D0%9E%D0%A0%D0%AB%D0%99+%D0%A5%D0%9E%D0%A7%D0%95%D0%A2+%D0%A5%D0%A0%D0%9E%D0%9C+%D0%92+%D0%9B%D0%AE%D0%94%D0%95%D0%99" />
+<strong>КРУТОЙ РАЗРАБ (НЕТ, СЕРЬЁЗНО) · ПИШУ КОД В 3 НОЧИ · FEDORA · MEDTECH / AI</strong>
 
 <br><br>
 
@@ -124,10 +124,10 @@ Educational Telegram bot for tick-borne encephalitis prevention and public healt
   <img src="https://img.shields.io/badge/РЕПОЗИТОРИИ-СМОТРЕТЬ_ВСЕ-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
 </a>
 <a href="https://github.com/ExperienceIV?tab=followers">
-  <img src="https://img.shields.io/github/followers/ExperienceIV?style=for-the-badge&color=FF00FF&labelColor=0D1117&label=ПОДПИСЧИКИ" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/GITHUB-ПОДПИСЧИКИ-FF00FF?style=for-the-badge&labelColor=0D1117" alt="GitHub followers" />
 </a>
 <a href="https://github.com/ExperienceIV/MedReg-AI-Demo">
-  <img src="https://img.shields.io/github/last-commit/ExperienceIV/MedReg-AI-Demo?style=for-the-badge&color=8A2BE2&labelColor=0D1117&label=ПОСЛЕДНИЙ%20СИГНАЛ" alt="Latest project activity" />
+  <img src="https://img.shields.io/badge/ПРОЕКТ-ПОСЛЕДНЯЯ_АКТИВНОСТЬ-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Latest project activity" />
 </a>
 
 <br><br>
