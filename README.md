@@ -1,152 +1,72 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/cyber_banner.png" width="100%" />
-</div>
+  <img src="cyber_banner.png" alt="Experience IV — Medical AI and Biomedical Engineering" width="100%" />
 
-<br>
+  # Experience IV
 
-<div align="center">
+  **Medical AI · Biomedical Engineering · Software Development**
 
-<br><br>
+  Студент медицинского университета. Разрабатываю программные решения на пересечении медицины, машинного обучения и инженерии.
 
-<img src="https://img.shields.io/badge/СИСТЕМА-ОНЛАЙН_(ПОКА_НЕ_УПАЛА)-00F5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/РЕЖИМ-КИБЕР_МЕДЛАБ-FF00FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/СТАТУС-В_ПОИСКЕ_ХРОМА-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-
+  [Проекты](#проекты) · [Технологии](#технологии) · [Связь](#связь)
 </div>
 
 ---
 
-<div align="center">
+## Обо мне
 
-## ◤ КТО ЭТО ТУТ ◢
+Основные направления работы — анализ медицинских данных, интеллектуальные системы, биомедицинская инженерия и протезирование.
 
-Студент-медик из Нижнего, который пишет софт на стыке  
-**ИИ, медицинских данных, бэкенда и будущих биотехнологий.**
+Интересуюсь нейроинтерфейсами, медицинской электроникой, встроенными системами и практическим применением машинного обучения.
 
-Мечтаю о протезах, имплантах и нейроинтерфейсах.  
-Клиническая медицина — не моё. Хром — моё.
+## Проекты
 
-</div>
+### MedReg AI
 
----
+Система анализа жалоб пациента и маршрутизации к профильному специалисту с использованием методов обработки естественного языка.
 
-<div align="center">
+**Направление:** Medical NLP · Machine Learning · Python
 
-## ◤ ЛИСТ ПЕРСОНАЖА ◢
+[Репозиторий MedReg AI](https://github.com/ExperienceIV/MedReg-AI-Demo)
 
-<img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
+### Tick Defender Bot
 
-<!--EXCUSE:START-->
-> 💬 **Оправдание дня (17.11.2026):** Я не опоздал с дедлайном, я его расширил.
-<!--EXCUSE:END-->
+Образовательный Telegram-бот по профилактике клещевого энцефалита и вопросам общественного здоровья.
 
-</div>
+**Направление:** Digital Health · Public Health · Telegram Bot
 
----
+[Репозиторий Tick Defender Bot](https://github.com/ExperienceIV/Telegram-bot-for-the-prevention-of-tick-borne-encephalitis)
 
-<div align="center">
+### Радар смены — Navicon AI Fest
 
-## ◤ ТЕХНОЛОГИЧЕСКАЯ МАТРИЦА ◢
+Прототип интеллектуального диспетчера обращений: анализ текста заявки, определение приоритета по правилам организации и маршрутизация к специалисту с учётом компетенций и загрузки.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,postgres,docker,linux,git,github,html,css,cpp,rust,vscode&theme=dark&perline=7" />
+**Направление:** Automation · Python · SQLite · Service Desk
 
-<sub>Иконки не врут. Почти. Остальное гуглится за 30 секунд.</sub>
+[Репозиторий «Радар смены»](https://github.com/ExperienceIV/Navicon_AI_Fest_Case1)
 
-</div>
+## Технологии
 
----
+| Область | Инструменты |
+| --- | --- |
+| Языки | Python, C++, Rust |
+| Машинное обучение | PyTorch, Transformers |
+| Backend | FastAPI, SQL |
+| Инструменты | Git, GitHub, Linux / Fedora |
+| Интересы в разработке | Embedded systems, медицинская электроника, нейроинтерфейсы |
 
-<div align="center">
+## GitHub
 
-## ◤ ОФИЦИАЛЬНО О МОЁМ УРОВНЕ ◢
+[Все репозитории](https://github.com/ExperienceIV?tab=repositories) · [Активность](https://github.com/ExperienceIV?tab=overview) · [Подписчики](https://github.com/ExperienceIV?tab=followers)
 
-| Параметр | Значение |
-|---|---|
-| Уровень разработчика | «Senior», если считать часы без сна |
-| Любимый баг | тот, что исчез сам и никому не сказал |
-| Отладка | `print("here")`, потом `print("here2")`, потом молитва |
-| Рабочее время | с 22:00 до «ну я же только сел» |
-| ОС | Fedora, потому что страдать надо красиво |
-| Любимый язык | C++, а ещё Python, когда лень страдать |
-| Код-ревью | сам себе, самый предвзятый судья в мире |
-| «У меня на машине работает» | сертифицировано |
+<details>
+<summary>График активности</summary>
 
-</div>
+<img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub contribution graph" width="100%" />
 
----
+</details>
 
-<div align="center">
+## Связь
 
-## ◤ ACTIVE PROJECTS ◢
+Открыт к научному и техническому сотрудничеству в **MedTech, AI и биомедицинской инженерии**.
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 MedReg AI
-
-Intelligent patient routing based on neural text analysis.
-
-**Medical complaint → symptom analysis → specialist recommendation**
-
-<a href="https://github.com/ExperienceIV/MedReg-AI-Demo">
-  <img src="https://img.shields.io/badge/OPEN-MedReg--AI--Demo-00F5FF?style=for-the-badge&logo=github&labelColor=0D1117" alt="MedReg-AI-Demo" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🕷 Tick Defender Bot
-
-Educational Telegram bot for tick-borne encephalitis prevention and public health awareness.
-
-**Medical education → prevention → public health**
-
-<a href="https://github.com/ExperienceIV/Telegram-bot-for-the-prevention-of-tick-borne-encephalitis">
-  <img src="https://img.shields.io/badge/OPEN-Tick_Defender_Bot-FF00FF?style=for-the-badge&logo=telegram&labelColor=0D1117" alt="Tick Defender Bot" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◤ ТЕЛЕМЕТРИЯ GITHUB ◢
-
-<a href="https://github.com/ExperienceIV?tab=repositories">
-  <img src="https://img.shields.io/badge/РЕПОЗИТОРИИ-СМОТРЕТЬ_ВСЕ-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
-</a>
-<a href="https://github.com/ExperienceIV?tab=followers">
-  <img src="https://img.shields.io/badge/GITHUB-ПОДПИСЧИКИ-FF00FF?style=for-the-badge&labelColor=0D1117" alt="GitHub followers" />
-</a>
-<a href="https://github.com/ExperienceIV/MedReg-AI-Demo">
-  <img src="https://img.shields.io/badge/ПРОЕКТ-ПОСЛЕДНЯЯ_АКТИВНОСТЬ-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Latest project activity" />
-</a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◤ СВЯЗЬ ◢
-
-<img src="https://komarev.com/ghpvc/?username=ExperienceIV&color=00F7FF&style=for-the-badge&label=ПОСЕТИТЕЛИ+ЛАБЫ" />
-
-<br><br>
-
-**Открыт для коллабов в MedTech / AI / биомедицинской инженерии.**
-
-
-</div>
-
----
+[GitHub](https://github.com/ExperienceIV)
