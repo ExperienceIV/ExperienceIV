@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (17.11.2026):** Я не опоздал с дедлайном, я его расширил.
+> 💬 **Оправдание дня (18.11.2026):** Это не костыль, это бионический протез для кода.
 <!--EXCUSE:END-->
 
 </div>
