@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (18.11.2026):** Это не костыль, это бионический протез для кода.
+> 💬 **Оправдание дня (19.11.2026):** git blame указывает на меня из прошлого, а он всегда был идиотом.
 <!--EXCUSE:END-->
 
 </div>
