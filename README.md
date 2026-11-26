@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/ExperienceIV/ExperienceIV/main/assets/character-sheet.svg" width="100%" alt="Лист персонажа Experience IV" />
 
 <!--EXCUSE:START-->
-> 💬 **Оправдание дня (25.11.2026):** Это нейросеть виновата. Любая. Какая-нибудь.
+> 💬 **Оправдание дня (26.11.2026):** Я не прокрастинирую, я жду, пока исправят зависимость.
 <!--EXCUSE:END-->
 
 </div>
